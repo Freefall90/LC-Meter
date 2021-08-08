@@ -16,6 +16,10 @@ OS202011MS2QS1
 # on your computer.
 # comment the following line if you want to have your project file included.
 eagle.epf
+*.scr
+
+# CAM outputs
+*.zip
 
 # Autorouter files
 *.pro
@@ -32,7 +36,7 @@ eagle.epf
 *.sts
 *.crc
 *.crs
-
+*.cam
 *.dri
 *.drl
 *.gpi
